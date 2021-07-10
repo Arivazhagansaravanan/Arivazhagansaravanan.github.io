@@ -1,0 +1,82 @@
+h1 {
+    font-family: palatino;
+    font-weight: 400;
+    color: rgb(253, 255, 219);
+    text-align: center;
+    letter-spacing: 10px;
+    text-decoration: rgb(106, 116, 133) underline;
+    font-size: 50px;
+}
+h2 {
+    font-family: garamond;
+    color: rgb(255, 242, 219);
+    font-weight: normal;
+    letter-spacing: 5px;
+}
+h3 {
+    font-family: garamond;
+    color: rgb(255, 242, 219);
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+h4 {
+    font-family: garamond;
+    color: rgb(255, 242, 219);
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+html {
+    background-color: #212d36;
+}
+html::selection {
+    color: blue;
+}
+div {
+    color: aliceblue);
+}
+figcaption {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+form {
+    color:aliceblue;
+}
+form:hover {
+    color:crimson;
+}
+form    .yes:hover {
+    color:cyan
+}
+p {
+    font-family: Segoe UI;
+    color: aliceblue;
+}
+ul {
+    color: aliceblue;
+}
+a {
+    color: rgb(33, 155, 255);
+    text-decoration: none;
+}
+a:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+th {
+    font-family: garamond;
+    color: rgb(255, 242, 219);
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+button {
+    background-color: rgb(33, 155, 255);
+    color: azure;
+}
+button:hover {
+    background-color: crimson;
+    color: aliceblue;
+}
+td {
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
